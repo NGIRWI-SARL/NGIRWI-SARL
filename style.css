@@ -1,0 +1,118 @@
+*{
+	box-sizing: border-box;
+	overflow: auto;
+}
+body{
+	margin: 0px;
+	padding: 0px; 
+}
+#entete{
+	background-color: aqua;
+	color: black;
+	font-size: 4em;
+	/*font-family: "Agency FB";*/
+	/*font-family: "Arial Black";*/
+	font-family: "Georgia";
+	/*font-family: "Lucida Console";*/
+	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: red 0.1em 0.1em 0.2em;
+	height: 30%;
+}
+#logo{
+	position: absolute;
+	right: 0%;
+	top: 0%;
+	/*object-fit: cover;*/
+}
+#menu{
+	/*text-align: center;*/
+	font-family: "Georgia";
+	color: white;
+	background-color: aqua;
+	border-top: solid black 2px;
+	position: absolute;
+	left: 0%;
+	width: 20%;
+	top: 14%;
+	height: 85%;
+}
+/*#menu ul, #menu li{
+	display: inline;
+}*/
+#menu li a{
+	display: inline-block;
+	font-size: 1.2em;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-left: double black 5px;
+	text-shadow: coral 0.1em 0.1em 0.2em;
+}
+#menu li a:hover{
+	border-bottom: solid blue 2px;
+}
+/*#menu li:last-child a{
+	border-right: solid black 2px; 
+}*/
+h1:first-child
+{
+	text-align: center;
+	color: grey; 
+	text-shadow: -1px 0 aqua, 0 1px aqua,
+      1px 0 aqua, 0 -1px aqua;
+}
+h2{
+	text-shadow: coral 0.1em 0.1em 0.2em;
+	font-style: italic;
+}
+#contenu
+{
+	position: absolute;
+	right: 0%;
+	width: 80%;
+	top: 14%;
+	height: 81%;
+	padding: 0px;
+	padding-top: 0px;
+}
+#firstp, #ps{
+	font-style: italic;
+}
+.alinea{
+	text-indent: 5%;
+	line-height: 1.5;
+}
+p{
+	line-height: 1.5;
+}
+.gauche{
+	width: 55%;
+}
+.droite{
+	position: absolute;
+	top: 15%;
+	right: 0%;
+}
+#insert1{
+	position: absolute;
+	right: 10%;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#pied{
+	position: absolute;
+	width: 100%;
+	bottom: 0%;
+	background-color: aqua;
+	color: black;
+	text-align: center;
+	font-family: "Agency FB";
+	font-size: 1.2em;
+	padding: 5px;
+	border: 1px solid black;
+}
