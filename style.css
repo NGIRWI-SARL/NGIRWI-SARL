@@ -18,7 +18,7 @@ body{
 	text-align: center;
 	text-transform: uppercase;
 	text-shadow: red 0.1em 0.1em 0.2em;
-	height: 30%;
+	margin: 0%;
 }
 #logo{
 	position: absolute;
@@ -93,7 +93,7 @@ p{
 }
 .droite{
 	position: absolute;
-	top: 15%;
+	top: 18%;
 	right: 0%;
 }
 #insert1{
