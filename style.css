@@ -58,9 +58,6 @@ body{
 #menu li a:hover{
 	border-bottom: solid blue 2px;
 }
-/*#menu li:last-child a{
-	border-right: solid black 2px; 
-}*/
 h1:first-child
 {
 	text-align: center;
