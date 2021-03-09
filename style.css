@@ -17,6 +17,7 @@ body{
 	text-align: center;
 	text-transform: uppercase;
 	text-shadow: red 0.1em 0.1em 0.2em;
+	padding: 2%;
 	position: absolute;
 	top: 0%;
 	height: 14%;
