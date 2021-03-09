@@ -79,9 +79,13 @@ h2{
 	padding: 0px;
 	padding-top: 0px;
 	margin: 0%;
+	background-color: coral;
 }
 #firstp, #ps{
 	font-style: italic;
+}
+#rs a{
+	text-decoration: none;
 }
 .alinea{
 	text-indent: 5%;
