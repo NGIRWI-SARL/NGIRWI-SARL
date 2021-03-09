@@ -40,7 +40,7 @@ body{
 	left: 0%;
 	width: 20%;
 	top: 14%;
-	height: 85%;
+	height: 81%;
 }
 /*#menu ul, #menu li{
 	display: inline;
@@ -110,6 +110,7 @@ table, th, td {
 	position: absolute;
 	width: 100%;
 	bottom: 0%;
+	height: 5%;
 	background-color: aqua;
 	color: black;
 	text-align: center;
