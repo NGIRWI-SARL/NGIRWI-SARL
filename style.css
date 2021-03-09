@@ -66,7 +66,7 @@ h1:first-child
       1px 0 aqua, 0 -1px aqua;
 }
 h2{
-	text-shadow: coral 0.1em 0.1em 0.2em;
+	text-shadow: red 0.1em 0.1em 0.2em;
 	font-style: italic;
 }
 #contenu
