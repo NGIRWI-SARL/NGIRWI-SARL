@@ -126,7 +126,7 @@ table, th, td {
 }
 @media all
 	and (max-width: 530px)
-	and (max-height: 670px) {
+	and (max-height: 720px) {
 *{
 	box-sizing: border-box;
 	overflow: auto;
@@ -172,7 +172,7 @@ body{
 }*/
 #menu li a{
 	display: inline-block;
-	font-size: 0.2em;
+	font-size: 0.1em;
 	padding: 10px;
 	color: black;
 	text-decoration: none;
