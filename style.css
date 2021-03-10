@@ -217,6 +217,9 @@ h2{
 #rs a{
 	text-decoration: none;
 }
+#st {
+	font-size: 0.1em;
+}
 .alinea{
 	text-indent: 5%;
 	line-height: 1.5;
