@@ -141,6 +141,7 @@ body{
 	font-family: "Georgia";
 	text-align: center;
 	text-transform: uppercase;
+	font-size: 1.5em;
 	text-shadow: red 0.1em 0.1em 0.2em;
 	padding: 0%;
 	position: absolute;
@@ -163,7 +164,7 @@ body{
 	border-top: solid black 2px;
 	position: absolute;
 	left: 0%;
-	width: 25%;
+	width: 28%;
 	top: 14%;
 	height: 81.7%;
 }
@@ -200,7 +201,7 @@ h2{
 {
 	position: absolute;
 	right: 0%;
-	width: 75%;
+	width: 72%;
 	top: 14%;
 	height: 81.7%;
 	padding: 0px;
