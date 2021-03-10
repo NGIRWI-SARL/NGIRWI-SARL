@@ -141,7 +141,7 @@ body{
 	font-family: "Georgia";
 	text-align: center;
 	text-transform: uppercase;
-	font-size: 2em;
+	font-size: 3em;
 	text-shadow: red 0.1em 0.1em 0.2em;
 	padding: 0%;
 	position: absolute;
@@ -154,8 +154,8 @@ body{
 	right: 0%;
 	top: 0%;
 	margin: 0%;
-	height: 14%;
-	width: 15%;
+	height: 12%;
+	width: 11%;
 	/*object-fit: cover;*/
 }
 #menu{
@@ -227,6 +227,7 @@ p{
 }
 .gauche{
 	width: 55%;
+	font-size: 0.5em;
 }
 .droite{
 	position: absolute;
