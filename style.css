@@ -124,7 +124,7 @@ table, th, td {
 	border: 1px solid black;
 	overflow: hidden;
 }
-@media screen
+@media all
 	and (max-width: 450px)
 	and (max-height: 500px) {
 *{
