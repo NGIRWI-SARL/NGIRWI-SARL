@@ -151,10 +151,10 @@ body{
 }
 #logo{
 	position: absolute;
-	right: 0%;
-	top: 0%;
+	left: 0%;
+	top: 14%;
 	margin: 0%;
-	height: 13.7%;
+	height: 14%;
 	overflow: hidden;
 	/*object-fit: cover;*/
 }
