@@ -46,6 +46,7 @@ body{
 	display: inline;
 }*/
 #menu li a{
+	text-align: left;
 	display: inline-block;
 	font-size: 1.2em;
 	padding: 10px;
@@ -157,10 +158,10 @@ body{
 	height: 14%;
 	width: 28%;
 	overflow: hidden;
+	visibility: visible;
 	/*object-fit: cover;*/
 }
 #menu{
-	text-align: left;
 	font-family: "Georgia";
 	color: white;
 	background-color: aqua;
@@ -175,6 +176,7 @@ body{
 	display: inline;
 }*/
 #menu li a{
+	text-align: left;
 	display: inline-block;
 	font-size: 0.1em;
 	padding: 10px;
