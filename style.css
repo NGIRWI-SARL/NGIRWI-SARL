@@ -107,6 +107,9 @@ p{
 	position: absolute;
 	right: 10%;
 }
+#monImage{
+	height: 35%;
+	width: 35%;
 table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
