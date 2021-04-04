@@ -88,12 +88,11 @@ h2{
 #rs a{
 	text-decoration: none;
 }
-img{
+imaa{
 	border: solid 4px coral;
 	border-radius: 30px;
 	margin: 70px;
 }
-	</style>
 .alinea{
 	text-indent: 5%;
 	line-height: 1.5;
@@ -229,7 +228,7 @@ h2{
 #st {
 	font-size: 0.1em;
 }
-img{
+imaa{
 	border: solid 4px coral;
 	border-radius: 30px;
 	margin: 70px;
@@ -257,11 +256,11 @@ p{
 	position: absolute;
 	right: 10%;
 }
-#my{
+/* #my{
 	position: absolute;
 	height: 35%;
 	width: 35%;
-}
+} */
 table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
