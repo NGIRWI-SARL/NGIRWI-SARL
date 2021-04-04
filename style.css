@@ -245,6 +245,7 @@ p{
 	right: 10%;
 }
 #monImage{
+	position: absolute;
 	height: 35%;
 	width: 35%;
 }
