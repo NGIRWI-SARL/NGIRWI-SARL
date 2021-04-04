@@ -7,7 +7,7 @@ body{
 	padding: 0px; 
 }
 #entete{
-	background-color: aqua;
+	background-color: rgb(23,216,226);
 	color: black;
 	font-size: 5em;
 	/*font-family: "Agency FB";*/
@@ -34,7 +34,7 @@ body{
 	/*text-align: center;*/
 	font-family: "Georgia";
 	color: white;
-	background-color: aqua;
+	background-color: rgb(23,216,226);
 	border-top: solid black 2px;
 	position: absolute;
 	left: 0%;
@@ -63,11 +63,11 @@ h1:first-child
 {
 	text-align: center;
 	color: grey; 
-	text-shadow: -1px 0 aqua, 0 1px aqua,
-      1px 0 aqua, 0 -1px aqua;
+	text-shadow: -1px 0 rgb(23,216,226), 0 1px rgb(23,216,226),
+      1px 0 rgb(23,216,226), 0 -1px rgb(23,216,226);
 }
 h2{
-/* 	text-shadow: coral 0.1em 0.1em 0.2em; */
+	text-shadow: coral 0.1em 0.1em 0.2em;
 	font-style: italic;
 }
 #contenu
@@ -116,7 +116,7 @@ table, th, td {
 	width: 100%;
 	bottom: 0%;
 	height: 4.3%;
-	background-color: aqua;
+	background-color: rgb(23,216,226);
 	color: black;
 	text-align: center;
 	font-family: "Agency FB";
@@ -137,7 +137,7 @@ body{
 	padding: 0px; 
 }
 #entete{
-	background-color: aqua;
+	background-color: rgb(23,216,226);
 	color: black;
 	text-align: center;
 	font-family: "Georgia";
@@ -164,7 +164,7 @@ body{
 #menu{
 	font-family: "Georgia";
 	color: white;
-	background-color: aqua;
+	background-color: rgb(23,216,226);
 	border-top: solid black 2px;
 	position: absolute;
 	left: 0%;
@@ -194,8 +194,8 @@ h1:first-child
 	text-align: center;
 	font-size: 0.8em;
 	color: grey; 
-	text-shadow: -1px 0 aqua, 0 1px aqua,
-      1px 0 aqua, 0 -1px aqua;
+	text-shadow: -1px 0 rgb(23,216,226), 0 1px rgb(23,216,226),
+      1px 0 rgb(23,216,226), 0 -1px rgb(23,216,226);
 }
 h2{
 	text-shadow: coral 0.1em 0.1em 0.2em;
@@ -257,7 +257,7 @@ table, th, td {
 	width: 100%;
 	bottom: 0%;
 	height: 4.3%;
-	background-color: aqua;
+	background-color: rgb(23,216,226);
 	color: black;
 	text-align: center;
 	font-family: "Agency FB";
