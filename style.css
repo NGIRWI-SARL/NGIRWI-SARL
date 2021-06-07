@@ -134,7 +134,9 @@ rs{
 	border: 1px solid black;
 	overflow: hidden;
 }
-@media handheld {
+@media screen
+	and (max-width: 530px)
+	and (max-height: 720px){
 *{
 	box-sizing: border-box;
 	overflow: auto;
