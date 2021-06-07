@@ -134,7 +134,7 @@ rs{
 	border: 1px solid black;
 	overflow: hidden;
 }
-@media screen
+@media all
 	and (max-width: 530px)
 	and (max-height: 720px){
 *{
